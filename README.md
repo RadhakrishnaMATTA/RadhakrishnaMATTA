@@ -1,6 +1,6 @@
 👋 Hey there! I’m Radha Krishna Matta, an aspiring Full Stack Java Developer 💻 who loves turning ideas into scalable applications 🚀 and solving real-world problems with smart tech solutions.
 
-🎓 Currently pursuing my B.Tech in Computer Science, I’ve been gaining hands-on experience through internships, projects, and continuous learning 📚.
+🎓 Recently completed my B.Tech in Computer Science, I’ve been gaining hands-on experience through internships, projects, and continuous learning 📚.
 
 💡 What I’ve done so far:
 
